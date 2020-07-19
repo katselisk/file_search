@@ -1,7 +1,5 @@
 import os
 
-
-
 mydir = input('enter the path to search :')
 arxio = input('give the file name to search :')
 
